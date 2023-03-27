@@ -7,6 +7,10 @@ This app is a single-page application that runs in the browser. It fretures a nu
 
 This application utilizes methods for getting and storing data to an IndexedDB database. It uses a package called idb, which is a lightweight wrapper around the IndexedDB API. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
 
+You can access the Heroku deployed application using the following link:
+
+https://text-editor586.herokuapp.com/
+
 ## User Story
 
 ```
@@ -71,33 +75,20 @@ npm start
 
 ## Usage
 
-1. 1. You can access the file in the GitHub repository: https://github.com/rbhumbla1/E-Commerce-Back-End
-2. Run the application in the terminal using this command: 
-```
-node server
-```
-3. Open the website using the following link:
+* You can access the file in the GitHub repository: https://github.com/karinnesagir/Text-Editor
 
-  <!-- [Live website]()
-<!-- 
-4. Click the 'Create an account' button if you do not already have an account.
+* Access the website using the following link:
 
-5. Enter your budget goals with the following information: category and amount.
+[Live website](https://text-editor586.herokuapp.com/)
 
-6. Click the '+' button to set the current budget goal.
+* Example of the application's appearance and functionality:
 
-7. In the 'expenses' page (accessible through the navigation bar), add your expenses using the folling information: category, description, and amount.
-
-8. Click the 'Add Expense' button to set the current expense.
-
-9. Return to the budget 'dashboard' (accessible through the navigation bar), and view your fund remaining by category. -->
-<!-- //////// -->
-
-Example of the application's appearance and functionality:
-
-<!-- ![login](./assets/login.jpg)
-![dashboard](./assets/dashboard.jpg)
-![expenses](./assets/expenses.jpg) -->
+![homepage](./assets/images/homepage.jpg)
+![storage](./assets/images/storage.jpg)
+![manifest](./assets/images/manifest.jpg)
+![service worker](./assets/images/service-worker.jpg)
+![jate](./assets/images/jate.jpg)
+![install](./assets/images/install.jpg)
 
 ## License
 
@@ -122,5 +113,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-
